@@ -32,3 +32,6 @@ bind / eval "scrollback 0" "scrollback 57000"
 
 # cp paste do buffer ^[ -> cat|xsel ou xclip ^] ^d
 bindkey -m ' ' eval 'stuff \040' 'writebuf' 'exec sh -c "/usr/bin/xclip< /tmp/screen-exchange"'
+
+setenv BUFFERFILE "$HOME/.buffer" 
+bufferfile "$BUFFERFILE"
