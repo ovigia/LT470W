@@ -1,0 +1,25 @@
+ENTRY "/home/ptcpt072/Downloads" URL "/home/ptcpt072/Downloads"
+GROUP "lssecfixes"
+ENDGROUP
+ENTRY "/home/ptcpt072/Documents/PHI" URL "/home/ptcpt072/Documents/PHI"
+GROUP "cemg_montepio"
+  ENTRY "/home/ptcpt072/Documents/PHI/APARS/software/sh://ptcpt072@192.168.198.136/export/software/PHC/rhel6.9" URL "/home/ptcpt072/Documents/PHI/APARS/software/sh://ptcpt072@192.168.198.136/export/software/PHC/rhel6.9"
+ENDGROUP
+ENTRY "/home/ptcpt072/Documents/PHI/APARS" URL "/home/ptcpt072/Documents/PHI/APARS"
+GROUP "mydirs"
+  ENTRY "/home/ptcpt072/t430" URL "/home/ptcpt072/t430"
+  ENTRY "/home/ptcpt072/Documents/compta" URL "/home/ptcpt072/Documents/compta"
+ENDGROUP
+ENTRY "/home/ptcpt072/Documents/PHI/APARS/PLANOS" URL "/home/ptcpt072/Documents/PHI/APARS/PLANOS"
+ENTRY "/home/ptcpt072/Documents/PHI/APARS/software" URL "/home/ptcpt072/Documents/PHI/APARS/software"
+ENTRY "/home/ptcpt072/Documents/PHI/APARS/RCAs" URL "/home/ptcpt072/Documents/PHI/APARS/RCAs"
+ENTRY "/home/ptcpt072/Documents/PHI/APARS/APARS-FICHEIROS_DE_FECHO" URL "/home/ptcpt072/Documents/PHI/APARS/APARS-FICHEIROS_DE_FECHO"
+ENTRY "/home/ptcpt072/Documents/PHI/APARS/APARS-FICHEIROS_DE_FECHO/2017" URL "/home/ptcpt072/Documents/PHI/APARS/APARS-FICHEIROS_DE_FECHO/2017"
+GROUP "ftp3ibm"
+  ENTRY "/home/ptcpt072/Documents/PHI/APARS/software/LINUX/ftpibm6x_64bit/ftp://ricardo.nunes@pt.ibm.com@ftp3.linux.ibm.com/" URL "/home/ptcpt072/Documents/PHI/APARS/software/LINUX/ftpibm6x_64bit/ftp://ricardo.nunes@pt.ibm.com@ftp3.linux.ibm.com/"
+ENDGROUP
+ENTRY "/home/ptcpt072/Documents/PHI/APARS/everyday_work_files" URL "/home/ptcpt072/Documents/PHI/APARS/everyday_work_files"
+GROUP "mbcp"
+  ENTRY "/home/ptcpt072/sh://x340836@10.80.66.21/export/software/PHC" URL "/home/ptcpt072/sh://x340836@10.80.66.21/export/software/PHC"
+ENDGROUP
+ENTRY "/home/ptcpt072/Documents/PHI/docs/procedimentos" URL "/home/ptcpt072/Documents/PHI/docs/procedimentos"
