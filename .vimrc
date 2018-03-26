@@ -36,6 +36,7 @@ set showcmd			"Show (partial) command in the last line of the screen.
 set cursorline      " highlight current line
 "set textwidth=80	" Make Vim display a line at the edge of the set textwidth
 "set colorcolumn=-1	" complementa o comando acima
+filetype plugin on
 
 filetype indent on  " load filetype-specific indent files
 set showmatch		" highlight matching [{()}]
